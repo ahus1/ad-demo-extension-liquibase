@@ -1,8 +1,9 @@
 = AsciiDoc Liquibase Extension Example
 
 ////
-You'll need to use IntelliJ with the AsciiDoc plugin installed 0.31.20
-plus activated extensions in your current IDE's session.
+You'll need to use IntelliJ with the AsciiDoc plugin 0.31.20+ installed
+plus activated extensions in your current IDE's session
+to see a live preview of the liquibase macro below.
 ////
 
 liquibase::{docdir}/changelog/db.changelog-master.xml[]
