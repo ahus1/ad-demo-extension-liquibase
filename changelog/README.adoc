@@ -1,0 +1,3 @@
+Contents in this folder taken from https://github.com/uniqueck/asciidoctorj-liquibase-extension[AsciidoctorJ Liquibase Extension].
+
+Respective license applies.
